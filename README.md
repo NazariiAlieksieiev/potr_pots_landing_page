@@ -18,5 +18,3 @@ The landing page was developed using the following technologies:
 - Flat pack postage for easy delivery.
 - Easy assembly using quick draw cotton cord.
 - Self-watering functionality through wicking technology.
-
-Feel free to explore the Creative Bakery Landing Page and immerse yourself in the world of delicious baked goods.
